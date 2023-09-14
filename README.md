@@ -49,8 +49,11 @@ Para executar o projeto, siga estas etapas:
 1. Clone o repositório do [backend](https://github.com/gcsbruno/upload-ai-api) e siga as instruções do README para configurar e iniciar o servidor.
 
 2. Clone este repositório do frontend e siga as instruções abaixo:
+   ```bash
+   git clone https://github.com/gcsbruno/upload-ai-web.git
 
 ```bash
+cd upload-ai-web
 # Instale as dependências com Yarn
 yarn install
 
